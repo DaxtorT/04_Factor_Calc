@@ -63,7 +63,7 @@ def to_factor():
 
 # Find the factors (hint: use modulo)
 # If the number to factorise is 1, tell the user it's unity
-    to_stop = var_integer**0.5
+    to_stop = var_integer ** 0.5
     to_stop = int(to_stop)
     for item in range (1, to_stop + 1):
 
